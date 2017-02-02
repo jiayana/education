@@ -10,6 +10,9 @@ public class HelloJava {
 		
 		// branch 추가 내용
 		System.out.println("Second commit work");
+		
+		// GitHub 추가 내용
+		System.out.println("GitHub");
 	}
 
 }
